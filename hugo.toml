@@ -1,0 +1,8 @@
+baseURL = "https://HilyaShk02.github.io/holamundo/"
+languageCode = "es"
+title = "Mi Sitio con Hugo"
+theme = "ananke"
+publishDir = "docs"
+
+[params]
+  description = "Mi primer sitio web estático"
