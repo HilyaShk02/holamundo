@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mi Sitio con Hugo</title>
+    <link>https://HilyaShk02.github.io/holamundo/posts/</link>
+    <description>Recent content in Posts on Mi Sitio con Hugo</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 14 Oct 2025 10:00:00 +0200</lastBuildDate>
+    <atom:link href="https://HilyaShk02.github.io/holamundo/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bienvenida</title>
+      <link>https://HilyaShk02.github.io/holamundo/posts/bienvenida/</link>
+      <pubDate>Tue, 14 Oct 2025 10:00:00 +0200</pubDate>
+      <guid>https://HilyaShk02.github.io/holamundo/posts/bienvenida/</guid>
+      <description>&lt;p&gt;¡Hola! Esta es mi primera entrada en &lt;strong&gt;Hugo&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Puedo usar &lt;em&gt;Markdown&lt;/em&gt; para formatear el texto:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lista 1&lt;/li&gt;&#xA;&lt;li&gt;Lista 2&lt;/li&gt;&#xA;&lt;li&gt;Lista 3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;subtítulo&#34;&gt;Subtítulo&lt;/h2&gt;&#xA;&lt;p&gt;Texto normal con &lt;a href=&#34;https://gohugo.io&#34;&gt;enlaces&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
